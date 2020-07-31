@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Liam;Maguire;;;
+FN: Maguire  Liam 
+ORG:Content Management Service Ltd;
+TITLE:Founder|CEO\
+EMAIL;type=INTERNET;type=WORK;type=pref:liam.maguire@contentmanagementservice.co.uk
+TEL;type=WORK;type=VOICE:02895 81 2009
+item1.ADR;type=WORK;type=pref:;;2 Lakeview\nBelfast\, BT15 2AZ;;;;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:contentmanagementservice.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
