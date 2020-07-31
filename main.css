@@ -145,7 +145,7 @@ img.profile-pic {
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: #000;
     font-size: 20px;
 }
 
@@ -156,13 +156,17 @@ img.profile-pic {
     font-size: 12px;
 }
 
+
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #000;
     font-size: 12px;
 }
-
+.name-title-company img {
+    width: 100%;
+    max-width: 300px;
+}
 .bottom {
 	height: 23%;
 }
